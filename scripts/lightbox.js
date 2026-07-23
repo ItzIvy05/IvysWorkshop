@@ -9,6 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
     img.addEventListener("click", (e) => {
       if (img.closest("[data-no-lightbox]")) return;
 
+      e.preventDefault();
       lightboxImg.src = img.src;
       lightbox.classList.add("active");
     });

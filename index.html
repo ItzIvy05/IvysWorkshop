@@ -2,116 +2,73 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Ivy's Workshop</title>
+  <meta name="description" content="Two handcrafted Skyrim Special Edition modlists by Ivy's Workshop. Choose your realm: SkyGround Chronicles or Lumina.">
+
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Ivy's Workshop">
+  <meta property="og:description" content="Two handcrafted Skyrim Special Edition modlists. Choose your realm: SkyGround Chronicles or Lumina.">
+  <meta property="og:url" content="https://itzivy05.github.io/SkyGround/">
+  <meta property="og:image" content="https://itzivy05.github.io/SkyGround/resources/main.webp">
+  <link rel="icon" type="image/x-icon" href="resources/ico.ico">
+
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <link rel="stylesheet" href="style/main.css">
-  <link rel="stylesheet" href="style/lightbox.css">
+  <link rel="stylesheet" href="style/portal.css">
 </head>
 <body>
-  <!-- Lightbox JS Import -->
-  <div id="lightbox">
-    <img id="lightbox-img" alt="">
-  </div>
-  <script src="scripts/lightbox.js" defer></script>
-  <script src="scripts/components.js" defer></script>
-  
-  <header>
-    <title>SkyGround Chronicles</title>
-    <meta name="description" content="Experience the Next - Generation of Immersive Survival Roleplay. Ultimate Fantasy Survial Sim, built for Skyrim Special Edition.">
 
-    <!-- Open Graph / Discord -->
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="SkyGround Chronicles">
-    <meta property="og:description" content="Experience the Next - Generation of Immersive Survival Roleplay. Ultimate Fantasy Survial Sim, built for Skyrim Special Edition.">
-    <meta property="og:url" content="https://itzivy05.github.io/SkyGround/">
-    <meta property="og:image" content="https://itzivy05.github.io/SkyGround/resources/book3.webp">
-    <link rel="icon" type="image/x-icon" href="resources/ico.ico">
-
-    <div class="headerlogo">
-      <a href="#"><h1>Ivy's Workshop</h1></a>
+  <header class="portal-header">
+    <div class="portal-brand">
+      <a href="index.html">Ivy's <span>Workshop</span></a>
     </div>
-    <site-header></site-header>
+    <nav>
+      <a href="skyground.html">SkyGround</a>
+      <a href="lumina.html">Lumina</a>
+      <a href="https://discord.gg/GgkPMBMTrS" target="_blank" rel="noopener">Discord</a>
+    </nav>
   </header>
 
-  <section class="hero">
-    <h2>WELCOME TO THE WORLD OF</h2> <br> <h1>SKYGROUND CHRONICLES</h1>
-    <p>Experience the Next - Generation of Immersive Survival Roleplay.<br>
-    Ultimate Fantasy Survial Sim, built for <em>Skyrim Special Edition</em>. Powered by <a href="https://www.nexusmods.com/profile/MissileMann" style="color: orange;" target="_blank">MissileMann</a></p>
-    <a href="readme.html" class="btn-primary" target="_blank">Download Now</a>
-  </section>
+  <main class="portal-main">
+    <div class="portal-intro">
+      <p class="eyebrow">Ivy's Workshop</p>
+      <h1>Choose Your <span class="grad">Realm</span></h1>
+      <p>Two handcrafted worlds for <em>Skyrim Special Edition</em>. Pick the journey that calls to you.</p>
+    </div>
 
-  <section class="about" data-no-lightbox>
-    <img src="resources/book3.webp" alt="Icon">
-    <h2>A roleplaying experience unlike any other</h2>
-    <p><em>SkyGround</em> is a free, <strong>auto-installable modpack for Skyrim</strong> that builds on Skyrim’s foundation to deliver an immersive fantasy roleplaying game like no other.<br><br>
-    With over <strong>2500+ mods</strong> and deep integration, <em>SkyGround</em> creates a living world where you become who you want, act as you want, and thrive in a deeply simulated universe.</p>
-  </section>
+    <div class="portal-cards">
 
-  <section class="features">
-  <div class="feature-row">
-    <div class="feature-text">
-      <h3>Prepare, adapt, survive</h3>
-      <p>
-        In SkyGround, Requiem turns every road, ruin, and storm into a real challenge. Food, warmth, equipment, and timing matter just as much as combat skill. Victory belongs to the prepared.
-      </p>
-    </div>
-    <div class="feature-image">
-      <img src="resources/media/4.jpg" alt="">
-    </div>
-  </div>
+      <a href="skyground.html" class="realm-card skyground">
+        <div class="bg" style="background-image: url('resources/main.webp');"></div>
+        <div class="overlay"></div>
+        <span class="tag">Survival Roleplay</span>
+        <h2>SkyGround Chronicles</h2>
+        <p>A Requiem-based survival experience with 2500+ mods. Prepare, adapt, survive.</p>
+        <span class="enter">Enter
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+        </span>
+      </a>
 
-  <div class="feature-row reverse">
-    <div class="feature-text">
-      <h3>Handpicked graphics, optimized performance</h3>
-      <p>
-        This is not just a visual overhaul thrown together. SkyGround combines high quality graphical upgrades that are tested, refined, and performance conscious, so the world looks incredible while staying playable on mid range systems.
-      </p>
-    </div>
-    <div class="feature-image">
-      <img src="resources/media/2.jpg" alt="">
-    </div>
-  </div>
+      <a href="lumina.html" class="realm-card lumina">
+        <div class="bg" style="background-image: url('resources/lumina/cover.jpg');"></div>
+        <div class="overlay"></div>
+        <span class="tag">Immersive Survival</span>
+        <h2>Lumina</h2>
+        <p>A handcrafted survival experience built on modern standards, Community Shaders visuals, custom mods, and meaningful progression. We call it LumaRim.</p>
+        <span class="enter">Enter
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+        </span>
+      </a>
 
-  <div class="feature-row">
-    <div class="feature-text">
-      <h3>Live the struggle, earn the legend</h3>
-      <p>
-       SkyGround delivers a Requiem-based survival experience where danger is constant and growth is hard-won. Start small, learn the world, and build your strength through smart choices, not shortcuts.
-      </p>
     </div>
-    <div class="feature-image">
-      <img src="resources/media/10.jpg" alt="">
-    </div>
-  </div>
+  </main>
 
-  <div class="feature-row reverse">
-    <div class="feature-text">
-      <h3>Deep combat, real mastery</h3>
-      <p>
-        SkyGround delivers a deeper combat experience with stances, parry mechanics, and NPCs that can parry back. Custom perk trees and full unarmed integration open up more ways to build your character, while BFCO powers over 9,000 total animations for fluid and varied fights. All of it is further enhanced by Requiem's combat system for a harsher, more tactical experience.
-      </p>
-    </div>
-    <div class="feature-image">
-      <img src="resources/media/12.jpg" alt="">
-    </div>
-  </div>
-</section>
+  <footer class="portal-footer">
+    &copy; 2025-2026 Ivy's Workshop.
+  </footer>
 
-<section class="MediaSection">
-  <div class="mediagrid">
-    <div><img src="resources/media/9.jpg"></div>
-    <div><img src="resources/media/1.jpg"></div>
-    <div><img src="resources/media/2.jpg"></div>
-    <div><img src="resources/media/3.jpg"></div>
-    <div><img src="resources/media/4.jpg"></div>
-    <div><img src="resources/media/5.jpg"></div>
-    <div><img src="resources/media/6.jpg"></div>  
-    <div><img src="resources/media/11.jpg"></div>
-    <div><img src="resources/media/12.jpg"></div>
-  </div>
-</section>
-  <site-footer></site-footer>
 </body>
 </html>

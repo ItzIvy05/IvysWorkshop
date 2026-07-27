@@ -1,74 +1,92 @@
-// Lumina changelog. Newest version goes at the TOP.
-// Version line:  # <version> | <YYYY-MM-DD>
 
 
 # 0.2 | 2026-00-00
-Added Bobbing Framework - SKSE Plugin
-Added Crafting Grants XP
-Added Chocolate Poise - Reforged
-Added Modern Stagger Lock
-Added Character Menu SE - Stress and Fear - Show in UI
-Added Ivy ENB LIght Smelter
-Added Blade and Blunt - A Combat Overhaul - MCM Addon
-Added Smooth Moveset - OAR
-Added For Honor in Skyrim
-Added For Honor Reforged
-Added SIGMA - Dagger animations - First Person
 Added 1st Person Animations Expansion - Katana
 Added 1st Person Animations Expansion - Scimitar
-Added Fuse00 - Helga Armor 3BA
-Added LDD's Classic Helga Retexture
-Added Whiterun Thatched Roof Replacer
-Added Divine Crusader - PBR and CM Redone
-Added City Bag Checks
-Added Iconic Statues PBR
-Added Dynamic Footprints SKSE - TomatoRim
-Added Skyrim Reputation
-Added Skyrim Reputation - Manbeast - A Werewolf Overhaul patch
-Added Skyrim Reputation - Sacrilege Patch
-Added Skyrim Reputation - Unofficial Patch
-Added Manbeast - A Werewolf Overhaul
-Added Cure Disease Overhaul
-Added Imperial Kit Tweaks
-Added Spell Knight Armor Redone - PBR and Complex Material
-Added Tomato's Imperial Forts Remake - PBR or Complex Material
-Added FYX - Riften - Window Consistency
-Added Dynamic Armor Variants Extended
-Added Emittance Removal Project (Dust Fog Smoke Mist FX Effect)
-Added Shadow Opportunist - A Sneak Addon
-Added Agility - an Adamant addon
-Added Coin Weight
-Added Natual Waterfalls - CS Particle Patch
+Added ADXP I MCO BDO Guardian
+Added ADXP I MCO Elden Rim
+Added ADXP I MCO Elden Rim Warhammer
+Added ADXP I MCO ER Spear Basic Animation (SCAR)
+Added ADXP I MCO Nordic Dagger Animation
+Added ADXP I MCO Nordic Mace Animation For Player
+Added ADXP I MCO Nordic Warhammer Animation
+Added ADXP I MCO Spear Soldier Animations
+Added Agility - an Adamant Addon
+Added BDO Guardian Battle Axe
+Added Blade and Blunt - A Combat Overhaul - MCM Addon
+Added Bobbing Framework - SKSE Plugin
 Added Break Stagger
+Added Capital Whiterun Expansion
+Added Capital Whiterun Expansion - Fixed Meshes
 Added Capital Whiterun Expansion - JK's The Bannered Mare Patch
 Added Capital Whiterun Expansion - Meshes Optimization Project
-Added Capital Whiterun Expansion - Rob's Bug Fixes
 Added Capital Whiterun Expansion - Patches
-Added Capital Whiterun Expansion - Fixed Meshes
-Added Capital Whiterun Expansion
-Updated Directional Movement Keys - DMK
-Updated Input Manager
-Updated Core Impact Framework (CIF)
-Updated Open Animation Replacer
-Updated Whiterun - Circle of Kynareth
-Updated Alternative Riften Revived - Plant Addon by Areei
-Updated Critter Master - Script Call Reduction
-Updated Skyrim Cut Content Restoration - Patch Collection
-Updated Embers XD - PBR
-Updated Particle Limit Uncapper
+Added Capital Whiterun Expansion - Rob's Bug Fixes
+Added Character Menu SE - Stress and Fear - Show in UI
+Added Chocolate Poise - Reforged
+Added City Bag Checks
+Added Coin Weight
+Added Crafting Grants XP
+Added Cure Disease Overhaul
+Added Divine Crusader - PBR and CM Redone
+Added Dynamic Armor Variants Extended
+Added Dynamic Footprints SKSE - TomatoRim
+Added Elder Creed - Blade
+Added Elder Creed - Valhalla Axe Moveset AIO
+Added Elden RIM x DS3 Mashup
+Added Elden Ring Nightreign Duchess I MCO I BFCO I DAGGER
+Added Emittance Removal Project (Dust Fog Smoke Mist FX Effect)
+Added For Honor Reforged
+Added Fuse00 - Helga Armor 3BA
+Added FYX - Riften - Window Consistency
+Added Hellblade Battle Sword Animation
+Added HollowSlayer Greatsword Moveset I MCO ISCAR
+Added Iconic Statues PBR
+Added Imperial Kit Tweaks
+Added Ivy ENB Light Smelter
+Added LDD's Classic Helga Retexture
+Added Leviathan Animations II - Greatsword MCO Moveset
+Added Mace Animation MCO
+Added Manbeast - A Werewolf Overhaul
+Added Modern Stagger Lock
+Added Natural Waterfalls - CS Particle Patch
+Added Shadow Opportunist - A Sneak Addon
+Added SIGMA - Dagger Animations - First Person
+Added Skyrim Reputation
+Added Skyrim Reputation - Manbeast - A Werewolf Overhaul Patch
+Added Skyrim Reputation - Sacrilege Patch
+Added Skyrim Reputation - Unofficial Patch
+Added Smooth Moveset - OAR
+Added Spell Knight Armor Redone - PBR and Complex Material
+Added Tomato's Imperial Forts Remake - PBR or Complex Material
+Added Whiterun Thatched Roof Replacer
+
 Updated Aetherial Bloodlines - A Race Overhaul
-Updated Apprentice - Aptitude Codex
-Updated Roastlawyer's Restored Whiterun Defences
 Updated Alternative Riften - Revived and Optimized
+Updated Alternative Riften Revived - Plant Addon by Areei
+Updated Apprentice - Aptitude Codex
+Updated Core Impact Framework (CIF)
+Updated Critter Master - Script Call Reduction
+Updated Directional Movement Keys - DMK
+Updated Embers XD - PBR
+Updated Input Manager
+Updated Kaidan Revoiced - Community Expansion (KRCE)
+Updated Open Animation Replacer
+Updated Particle Limit Uncapper
+Updated Roastlawyer's Restored Whiterun Defences
 Updated Ryn's Skyrim Patch Collection
+Updated Skyrim Cut Content Restoration - Patch Collection
+Updated Whiterun - Circle of Kynareth
+Updated Wait Your Turn Redux - Enemy Circling Behavior
+
+Removed Dynamic Armor Variants
+Removed Dynamic Footprints SKSE - Vana
 Removed For Honor in Skyrim -BFCO Edition (All-in-One)
-Removed Read Or Take SKSE
-Removed Warmaiden's Hole Covers
-Removed Stances NG (For whatever reason i had this marked as installed)
 Removed Lush Dragonsreach Pools
 Removed Medieval Markets
-Removed Witcherun - A Verdant Whiterun Overhaul
-Removed Dynamic Footprints SKSE - Vana
-Removed Old Tomato's Imperial Forts
 Removed Old FYX - Riften - Window Consistency
-Removed Dynamic Armor Variants
+Removed Old Tomato's Imperial Forts
+Removed Read Or Take SKSE
+Removed Stances NG (For whatever reason I had this marked as installed)
+Removed Warmaiden's Hole Covers
+Removed Witcherun - A Verdant Whiterun Overhaul

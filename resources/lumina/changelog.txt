@@ -2,7 +2,7 @@
 // Version line:  # <version> | <YYYY-MM-DD>
 
 
-# 1.0.0 | 2026-07-26
+# 0.2 | 2026-00-00
 Added Bobbing Framework - SKSE Plugin
 Added Crafting Grants XP
 Added Chocolate Poise - Reforged

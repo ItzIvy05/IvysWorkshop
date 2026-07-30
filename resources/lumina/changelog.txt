@@ -71,13 +71,15 @@ Updated Directional Movement Keys - DMK
 Updated Embers XD - PBR
 Updated Input Manager
 Updated Kaidan Revoiced - Community Expansion (KRCE)
+Updated New Creature Animation - Dwarven Centurion - OAR
 Updated Open Animation Replacer
 Updated Particle Limit Uncapper
 Updated Roastlawyer's Restored Whiterun Defences
 Updated Ryn's Skyrim Patch Collection
+Updated Skyrim Cut Content Restoration
 Updated Skyrim Cut Content Restoration - Patch Collection
 Updated Whiterun - Circle of Kynareth
-Updated Wait Your Turn Redux - Enemy Circling Behavior
+Updated Wait Your Turn Redux - Enemy Circling Behavior  
 
 Removed Dynamic Armor Variants
 Removed Dynamic Footprints SKSE - Vana
@@ -87,6 +89,7 @@ Removed Medieval Markets
 Removed Old FYX - Riften - Window Consistency
 Removed Old Tomato's Imperial Forts
 Removed Read Or Take SKSE
+Removed Simple Beheading - NG
 Removed Stances NG (For whatever reason I had this marked as installed)
 Removed Warmaiden's Hole Covers
 Removed Witcherun - A Verdant Whiterun Overhaul

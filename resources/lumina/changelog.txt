@@ -40,6 +40,7 @@ Added Emittance Removal Project (Dust Fog Smoke Mist FX Effect)
 Added For Honor Reforged
 Added Fuse00 - Helga Armor 3BA
 Added FYX - Riften - Window Consistency
+Added Glow Be Gone Redone - NG
 Added Hellblade Battle Sword Animation
 Added HollowSlayer Greatsword Moveset I MCO ISCAR
 Added Iconic Statues PBR
@@ -55,6 +56,7 @@ Added Modern Stagger Lock
 Added No Auto-Equip Behaviour
 Added Natural Waterfalls - CS Particle Patch
 Added Shadow Opportunist - A Sneak Addon
+Added Save and Load Accelerator for SKSE Cosaves - S.L.A.C.Ks
 Added SIGMA - Dagger Animations - First Person
 Added State Globals Framework
 Added Smooth Terrain
@@ -62,8 +64,14 @@ Added Skyrim Reputation
 Added Skyrim Reputation - Manbeast - A Werewolf Overhaul Patch
 Added Skyrim Reputation - Sacrilege Patch
 Added Skyrim Reputation - Unofficial Patch
+Added Stormcrown - A Shout Overhaul
+Added Stormcrown - A Shout Overhaul - Optimized and Upscaled Textures
+Added Stormcrown - A Shout Overhaul - Siege at Icemoth
+Added Stormcrown - A Shout Overhaul - Capstone Perk Consistency
+Added Stormcrown - A Shout Overhaul - Dragon Cult Patches
 Added Smooth Moveset - OAR
 Added Spell Knight Armor Redone - PBR and Complex Material
+Added The Dragon Cult - A Draugr Overhaul
 Added Tomato's Imperial Forts Remake - PBR or Complex Material
 Added Whiterun Thatched Roof Replacer
 
@@ -75,6 +83,7 @@ Updated Core Impact Framework (CIF)
 Updated Critter Master - Script Call Reduction
 Updated Directional Movement Keys - DMK
 Updated Embers XD - PBR
+Updated Embershard
 Updated Input Manager
 Updated Kaidan Revoiced - Community Expansion (KRCE)
 Updated No Grass In Objects
@@ -82,12 +91,17 @@ Updated New Creature Animation - Dwarven Centurion - OAR
 Updated New Creature Animation - Riekling and Goblin
 Updated Open Animation Replacer
 Updated Particle Limit Uncapper
+Updated Rotols More Icons
 Updated Roastlawyer's Restored Whiterun Defences
 Updated Ryn's Skyrim Patch Collection
+Updated Siege at Icemoth
 Updated Sanguine Symphony
+Updated Shrubbery Symphony - Enhanced Greenery
 Updated Skyrim Food Expansion and Added PBR
 Updated Skyrim Cut Content Restoration
 Updated Skyrim Cut Content Restoration - Patch Collection
+Updated Spell Perk Item Distributor
+Updated Snozz's Resource Pack
 Updated Whiterun - Circle of Kynareth
 Updated Wait Your Turn Redux - Enemy Circling Behavior  
 
@@ -104,4 +118,7 @@ Removed Stances NG (For whatever reason I had this marked as installed)
 Removed Warmaiden's Hole Covers
 Removed Witcherun - A Verdant Whiterun Overhaul
 
-Fixed Shit lets see
+Fixed Missing Aspen Logs Texture (Hopefully)
+Fixed Lux Meshes for CS
+Fixed Bunch of floating things
+Fixed Bunch of Seams lines in landscape

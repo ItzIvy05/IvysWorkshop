@@ -31,6 +31,7 @@ Added Cure Disease Overhaul
 Added Divine Crusader - PBR and CM Redone
 Added Dynamic Armor Variants Extended
 Added Dynamic Footprints SKSE - TomatoRim
+Added Dynamic Armor Physics
 Added Elder Creed - Blade
 Added Elder Creed - Valhalla Axe Moveset AIO
 Added Elden RIM x DS3 Mashup
@@ -44,14 +45,19 @@ Added HollowSlayer Greatsword Moveset I MCO ISCAR
 Added Iconic Statues PBR
 Added Imperial Kit Tweaks
 Added Ivy ENB Light Smelter
+Added JK's College of Winterhold
+Added JK's College of Winterhold ObscureCombo Patches 
 Added LDD's Classic Helga Retexture
 Added Leviathan Animations II - Greatsword MCO Moveset
 Added Mace Animation MCO
 Added Manbeast - A Werewolf Overhaul
 Added Modern Stagger Lock
+Added No Auto-Equip Behaviour
 Added Natural Waterfalls - CS Particle Patch
 Added Shadow Opportunist - A Sneak Addon
 Added SIGMA - Dagger Animations - First Person
+Added State Globals Framework
+Added Smooth Terrain
 Added Skyrim Reputation
 Added Skyrim Reputation - Manbeast - A Werewolf Overhaul Patch
 Added Skyrim Reputation - Sacrilege Patch
@@ -71,11 +77,15 @@ Updated Directional Movement Keys - DMK
 Updated Embers XD - PBR
 Updated Input Manager
 Updated Kaidan Revoiced - Community Expansion (KRCE)
+Updated No Grass In Objects
 Updated New Creature Animation - Dwarven Centurion - OAR
+Updated New Creature Animation - Riekling and Goblin
 Updated Open Animation Replacer
 Updated Particle Limit Uncapper
 Updated Roastlawyer's Restored Whiterun Defences
 Updated Ryn's Skyrim Patch Collection
+Updated Sanguine Symphony
+Updated Skyrim Food Expansion and Added PBR
 Updated Skyrim Cut Content Restoration
 Updated Skyrim Cut Content Restoration - Patch Collection
 Updated Whiterun - Circle of Kynareth
@@ -93,3 +103,5 @@ Removed Simple Beheading - NG
 Removed Stances NG (For whatever reason I had this marked as installed)
 Removed Warmaiden's Hole Covers
 Removed Witcherun - A Verdant Whiterun Overhaul
+
+Fixed Shit lets see

@@ -13,11 +13,18 @@ Updated Snazzy Interiors Patch Collection
 Updated Snazzy Misc Locations
 Updated Simple Offence Suppression
 
+Removed Creation Club - Sunder & Wraithguard (Fully Replaced by The Tools of Kagrenac)
 Removed Icy Cave Remaster (Latest Version)
 Removed Mrf's Solitude - Interior
 Removed Mrf's Solitude - Exterior
 Removed Native Water Light Stabilizer (Don't Like AI Slop)
 Removed Skyrim Remastered - Caves
+
+Fixed Something 
+
+Changes
+ESM Flagged Aspen Ablaze
+ESM Flagged Nature of the Wild
 
 # 0.2 | 2026-00-00
 Added 1st Person Animations Expansion - Katana

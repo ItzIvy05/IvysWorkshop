@@ -1,4 +1,23 @@
+# 0.3 | 2026-00-00
+Added First Person Animations Expansion - Katana
+Added Grand Solitude - The Walls of High King Erling (Oh how i missed you)
+Added Grand Solitude - Optimized Meshes
+Added Icy Cave Remaster (Old Version 2.2.3)
+Added Vanaheimr - Mines and Caves - Complex Material - PBR
+Added Wicky's Solitude PBR - Interior
 
+Updated Bobbing Framework - SKSE Plugin
+Updated Smooth Terrain
+Updated Snazzy Riften AIO
+Updated Snazzy Interiors Patch Collection
+Updated Snazzy Misc Locations
+Updated Simple Offence Suppression
+
+Removed Icy Cave Remaster (Latest Version)
+Removed Mrf's Solitude - Interior
+Removed Mrf's Solitude - Exterior
+Removed Native Water Light Stabilizer (Don't Like AI Slop)
+Removed Skyrim Remastered - Caves
 
 # 0.2 | 2026-00-00
 Added 1st Person Animations Expansion - Katana

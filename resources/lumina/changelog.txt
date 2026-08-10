@@ -24,6 +24,7 @@ Fixed Something
 
 ESM Flagged Aspen Ablaze
 ESM Flagged Nature of the Wild
+ESM Flagged Caves of Morrowind
 
 # 0.2 | 2026-00-00
 Added 1st Person Animations Expansion - Katana

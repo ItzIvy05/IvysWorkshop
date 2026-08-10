@@ -22,7 +22,6 @@ Removed Skyrim Remastered - Caves
 
 Fixed Something 
 
-Changes
 ESM Flagged Aspen Ablaze
 ESM Flagged Nature of the Wild
 

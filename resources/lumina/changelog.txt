@@ -9,6 +9,7 @@ Added Capital Windhelm Expansion Bug fixes
 Added ClefJ's Morthal
 Added ClefJ's Morthal - Patches
 Added ClefJ's Morthal - Expanded Towns and Cities Patch
+Added Combat Music Fix NG Updated
 Added Rob's Bug Fixes - Capital Windhelm Expansion
 Added Rob's Bug Fixes - Capital Windhelm Expansion - Invisible Pit Fighter Fix
 Added Grand Solitude - The Walls of High King Erling (Oh how i missed you)
@@ -16,9 +17,14 @@ Added Grand Solitude - Optimized Meshes
 Added Grand Solitude - Light Addon
 Added Interior DALC Fix
 Added Icy Cave Remaster (Old Version 2.2.3)
+Added LOD Refresh Bug Fix
+Added Motionless Rocks Killing People Fix
 Added No Auto Local Map (Fuckin took 15 years thanks JP)
 Added NPCs Learn to Aim (Skill-Based Aiming)
 Added Spider Webs and Particles for ENB (Better Webs :P)
+Added SkyPatcher
+Added SkyPatcher - Animals Report No Crime
+Added SkyPatcher - Mortal Enemies
 Added TRE Brows 2 - New Brow Textures
 Added The Tools of Kagrenac
 Added The Tools of Kagrenac - EVG Animated Traversal Add-On
@@ -44,6 +50,7 @@ Removed Another Riverwood Bridge (I love you brother but too much combos)
 Removed Cities of the North - Morthal
 Removed Cities of the North - Morthal Patch Collection
 Removed Creation Club - Sunder & Wraithguard (Fully Replaced by The Tools of Kagrenac)
+Removed Combat Music Fix - Papyrus (Seams to bug out more and replaced by Combat Music Fix NG Updated)
 Removed FYX - Windhelm Palace of The Kings (Not compatible with Capital Windhelm)
 Removed FYX - Windhelm Entrance - Defensive Towers (Not compatible with Capital Windhelm)
 Removed Haugbui - A Draugr Overhaul (Is not compatible with The Dragon Cult)
@@ -53,6 +60,10 @@ Removed Haugbui - A Draugr Overhaul - Draugrs - SE
 Removed Haugbui - A Draugr Overhaul - SimonRim Patch
 Removed Ivy's Resource Nook
 Removed Icy Cave Remaster (Latest Version)
+Removed KS Hairdos (NON - SMP.. no one really uses it)
+Removed KS Hairdos - Sassy Salt and Wind Hair Retexture 
+Removed LOD Unloading Bug Fix (Replaced with Bottle's LOD Refresh Bug Fix)
+Removed LOD Unloading Bug Fix - Settings Loader
 Removed Mrf's Solitude - Interior
 Removed Mrf's Solitude - Exterior
 Removed MAGECORE - hdt SMP (CBBE 3BA) (couldnt make it SFW)
@@ -69,6 +80,10 @@ ESM Flagged Ashe
 ESM Flagged Remiel
 ESM The Tools of Kagrenac
 Swapped Windhelm Is Snowy - Base Object Swapper to Capital version
+Spiders and mudcrab are fully unleveled now
+Nerfed Trolls regen from 12 -> 10 per second
+Nerfed paralysis on spiders from 10secs -> 6secs
+Added Enchanted Sphere in Dwemer Locations
 
 # 0.2 | 2026-00-00
 Added 1st Person Animations Expansion - Katana

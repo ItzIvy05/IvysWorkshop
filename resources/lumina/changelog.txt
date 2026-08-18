@@ -94,7 +94,6 @@ Removed Wicky's Solitude PBR
 
 Fixed Something 
 
-Changes
 ESM Flagged Aspen Ablaze
 ESM Flagged Nature of the Wild
 ESM Flagged Caves of Morrowind

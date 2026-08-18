@@ -10,17 +10,20 @@ Added ClefJ's Morthal
 Added ClefJ's Morthal - Patches
 Added ClefJ's Morthal - Expanded Towns and Cities Patch
 Added Combat Music Fix NG Updated
+Added Dirt and Blood - Use Those Basins
 Added Rob's Bug Fixes - Capital Windhelm Expansion
 Added Rob's Bug Fixes - Capital Windhelm Expansion - Invisible Pit Fighter Fix
 Added Grand Solitude - The Walls of High King Erling (Oh how i missed you)
 Added Grand Solitude - Optimized Meshes
 Added Grand Solitude - Light Addon
+Added Carts Remodeled
 Added Interior DALC Fix
 Added Icy Cave Remaster (Old Version 2.2.3)
 Added LOD Refresh Bug Fix
 Added Motionless Rocks Killing People Fix
 Added No Auto Local Map (Fuckin took 15 years thanks JP)
 Added NPCs Learn to Aim (Skill-Based Aiming)
+Added Praedy's Soul gems (Works with CS and looks Awesome )
 Added Spider Webs and Particles for ENB (Better Webs :P)
 Added SkyPatcher
 Added SkyPatcher - Animals Report No Crime
@@ -29,22 +32,36 @@ Added TRE Brows 2 - New Brow Textures
 Added The Tools of Kagrenac
 Added The Tools of Kagrenac - EVG Animated Traversal Add-On
 Added The Tools of Kagrenac - Unofficial Patch
+Added The Taste of Death - Quest Addon
+Added Tomato's Solitude Remastered
 Added Vanaheimr - Mines and Caves - Complex Material - PBR
 Added Wicky's Solitude PBR - Interior
 Added Witcher Style Fences
 
+
+Updated SimonRim mods
+- Adamant - A Perk Overhaul
+
 Updated Bobbing Framework - SKSE Plugin
 Updated Chocolate Poise - Reforged
 Updated Character Menu SE - Stress and Fear - Show in UI
+Updated JK's Understone Keep
+Updated Lost Grimoire SSE
+Updated Particle Patch
 Updated Publican's Perch - A Modular Bar and Shop Counter Replacer
+Updated Riverside Treehouse
 Updated Smooth Terrain
 Updated Snazzy Riften AIO
 Updated Snazzy Interiors Patch Collection
 Updated Snazzy Misc Locations
+Updated Snazzy Player Homes (Honeyside is here)
 Updated Simple Offence Suppression
+Updated SkyPrompt
 Updated Skyrim Extended Cut - Saints and Seducers
+Updated SkyParkour v3 - Procedural Parkour and Climbing Framework (SPPF)
 Updated Tears of Kyne - Water Need Mod
 
+Removed Adamant - A Perk Overhaul - Bard Perks Addon (Merged into Main Mod)
 Removed ALT - Farmhouse Fences LP (Swapped to SkyFall Fences)
 Removed Another Riverwood Bridge (I love you brother but too much combos)
 Removed Cities of the North - Morthal
@@ -53,11 +70,13 @@ Removed Creation Club - Sunder & Wraithguard (Fully Replaced by The Tools of Kag
 Removed Combat Music Fix - Papyrus (Seams to bug out more and replaced by Combat Music Fix NG Updated)
 Removed FYX - Windhelm Palace of The Kings (Not compatible with Capital Windhelm)
 Removed FYX - Windhelm Entrance - Defensive Towers (Not compatible with Capital Windhelm)
+Removed Handcarts - Base Object Swapper (30k Faces for one handcart...hhahaha nice joke)
 Removed Haugbui - A Draugr Overhaul (Is not compatible with The Dragon Cult)
 Removed Haugbui - A Draugr Overhaul - CC Fishing Patch
 Removed Haugbui - A Draugr Overhaul - Believable Weapons Patch
 Removed Haugbui - A Draugr Overhaul - Draugrs - SE
 Removed Haugbui - A Draugr Overhaul - SimonRim Patch
+Removed HDT-SMP Physics Racemenu Hairs and Wigs Unisex
 Removed Ivy's Resource Nook
 Removed Icy Cave Remaster (Latest Version)
 Removed KS Hairdos (NON - SMP.. no one really uses it)
@@ -68,7 +87,10 @@ Removed Mrf's Solitude - Interior
 Removed Mrf's Solitude - Exterior
 Removed MAGECORE - hdt SMP (CBBE 3BA) (couldnt make it SFW)
 Removed Native Water Light Stabilizer (Don't Like AI Slop)
+Removed Riton's Medieval Solitude
 Removed Skyrim Remastered - Caves
+Removed Skyking Soul Gems (They Look bad with CS)
+Removed Wicky's Solitude PBR
 
 Fixed Something 
 
@@ -83,7 +105,7 @@ Swapped Windhelm Is Snowy - Base Object Swapper to Capital version
 Spiders and mudcrab are fully unleveled now
 Nerfed Trolls regen from 12 -> 10 per second
 Nerfed paralysis on spiders from 10secs -> 6secs
-Added Enchanted Sphere in Dwemer Locations
+Added Enchanted Sphere in Dwemer Locations as Gatekeeper in some cases. 
 
 # 0.2 | 2026-00-00
 Added 1st Person Animations Expansion - Katana

@@ -9,6 +9,7 @@ Added Capital Windhelm Expansion Bug fixes
 Added ClefJ's Morthal
 Added ClefJ's Morthal - Patches
 Added ClefJ's Morthal - Expanded Towns and Cities Patch
+Added Comprehensive Attack Rate Patch - SKSE
 Added Combat Music Fix NG Updated
 Added Dirt and Blood - Use Those Basins
 Added Rob's Bug Fixes - Capital Windhelm Expansion
@@ -19,6 +20,7 @@ Added Grand Solitude - Light Addon
 Added Carts Remodeled
 Added Interior DALC Fix
 Added Icy Cave Remaster (Old Version 2.2.3)
+Added Improvement Names Customized AE
 Added LOD Refresh Bug Fix
 Added Motionless Rocks Killing People Fix
 Added No Auto Local Map (Fuckin took 15 years thanks JP)
@@ -28,6 +30,7 @@ Added Spider Webs and Particles for ENB (Better Webs :P)
 Added SkyPatcher
 Added SkyPatcher - Animals Report No Crime
 Added SkyPatcher - Mortal Enemies
+Added Starfrost - A Survival Overhaul
 Added TRE Brows 2 - New Brow Textures
 Added The Tools of Kagrenac
 Added The Tools of Kagrenac - EVG Animated Traversal Add-On
@@ -38,17 +41,20 @@ Added Vanaheimr - Mines and Caves - Complex Material - PBR
 Added Wicky's Solitude PBR - Interior
 Added Witcher Style Fences
 
-
 Updated Adamant - A Perk Overhaul
+Updated Apprentice - A Class Overhaul
 Updated Blade and Blunt - A Combat Overhaul
 Updated Hand to Hand - An Adamant Addon
+Updated Mundus - A Standing Stone Overhaul
 Updated Mysticism - A Magic Overhaul
-
+Updated Thaumaturgy - An Enchanting Overhaul
 Updated Bobbing Framework - SKSE Plugin
+Updated Cure Disease Overhaul
 Updated Chocolate Poise - Reforged
 Updated Character Menu SE - Stress and Fear - Show in UI
 Updated JK's Understone Keep
 Updated Lost Grimoire SSE
+Updated Object Categorization Framework - Some KID Patches
 Updated Particle Patch
 Updated Publican's Perch - A Modular Bar and Shop Counter Replacer
 Updated Riverside Treehouse
@@ -94,6 +100,7 @@ Removed Mrf's Solitude - Interior
 Removed Mrf's Solitude - Exterior
 Removed MAGECORE - hdt SMP (CBBE 3BA) (couldnt make it SFW)
 Removed Native Water Light Stabilizer (Don't Like AI Slop)
+Removed Racial Abilities - I4 icons
 Removed Riton's Medieval Solitude
 Removed Skyrim Remastered - Caves
 Removed Skyking Soul Gems (They Look bad with CS)
